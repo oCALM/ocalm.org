@@ -1,0 +1,22 @@
+body {
+    background-color: #fffdf7;
+    font-family: sans-serif;
+}
+
+#title,
+#subtitle {
+    font-size: 64px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+#subtitle {
+    font-size: small;
+    margin-top: 5px;
+}
+
+#body {
+    margin: 0 auto;
+    text-indent: 30px;
+    width: 760px;
+}
